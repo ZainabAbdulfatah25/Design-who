@@ -1,4 +1,4 @@
-Design-who
+Designers Who
 
 This is my first assessment project as a Web Developer in the **Code & Create Bootcamp**. This project showcases my foundational skills in HTML and CSS, combining creativity with structure to build a clean and functional web design.
 
